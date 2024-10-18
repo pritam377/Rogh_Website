@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "Bigspring Light Nextjs",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/RoghTechLogo_page-0001.jpg",
+    "logo_width": "50",
+    "logo_height": "48",
+    "background": "none",
+    "logo_text": "Roghtech Solutions"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Contact us for top-quality IT solutions for your business growth",
+    "copyright": "RoghTech Solutions © 2023"
+  },
+
+  "metadata": {
+    "meta_author": "RoghTech",
+    "meta_image": "",
+    "meta_description": "A SAAS template for nextjs"
+  }
+}
