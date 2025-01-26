@@ -13,22 +13,22 @@ feature:
   features:
   - name: "Clean Code"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "As a website development company, we create efficient, scalable websites using clean code for seamless performance and maintainability."
   - name: "Object Oriented"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We use Object-Oriented Programming to build modular, scalable, and efficient websites."
   - name: "24h Service"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We provide 24/7 website development services, ensuring dynamic, user-friendly, and responsive websites."
   - name: "Value for Money"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We deliver value-for-money website development, creating custom, high-quality, and scalable solutions."
   - name: "Faster Response"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "As a website development company, we deliver fast, responsive solutions to ensure seamless user experiences."
   - name: "Cloud Support"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We leverage cloud support to build scalable, secure, and efficient websites with seamless data storage, deployment, and accessibility."
 
 # services
 services:
